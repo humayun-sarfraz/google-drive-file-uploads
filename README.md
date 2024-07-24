@@ -1,6 +1,3 @@
-# google-drive-file-uploads
- 
-
 # Google Drive File Upload Application
 
 This application allows you to upload files to Google Drive using a simple drag-and-drop interface. The application is built with Kivy for the UI and uses the Google Drive API for file uploads.
